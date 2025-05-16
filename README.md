@@ -1,6 +1,6 @@
 # My Personal Blog
 
-**Live Site:** [http://4.180.169.137](http://4.180.169.137)
+**Live Site:** [http://X.X.X.X](http://X.X.X.X)
 *(Note: This IP may change. A custom domain and HTTPS are planned future improvements.)*
 
 Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share my learning experience.
