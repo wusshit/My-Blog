@@ -3,7 +3,7 @@
 **Live Site:** [http://4.180.169.137](http://4.180.169.137)
 *(Note: This IP may change. A custom domain and HTTPS are planned future improvements.)*
 
-Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share [mention your blog's topics, e.g., "my thoughts on technology, book reviews, and personal projects"].
+Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share my learning experience.
 
 Beyond the content itself, this project also serves as a practical learning ground for implementing DevOps principles and building an automated deployment pipeline.
 
@@ -25,7 +25,7 @@ This "configuration demo" repository includes:
 *   Notes on the Azure VM setup and other server-side configurations.
 *   A detailed explanation of the deployment workflow.
 
-By separating the site's content (this repository) from its operational configuration (the linked repository), I aim to keep both projects focused and clear.
+This separation helps keep this repository focused on the site's content and the other repository focused on the operational infrastructure.
 
 ## Technologies Used (Site Content - This Repo)
 
@@ -70,7 +70,7 @@ While the detailed scripts are in the linked configuration repository, the deplo
 
 I plan to continue developing both the content of this blog and enhancing its underlying infrastructure:
 
-*   Adding more articles about how I figure out difficulties encountered in practical exploration and understanding from them
+*   Adding more articles about my understanding and learning experience in my practical exploration
 *   Implementing a custom domain and HTTPS (SSL/TLS).
 *   Further exploring DevOps tools for automation, configuration management, and containerization. *(Refer to the [CI/CD Setup & Configuration Repository](https://github.com/wusshit/my-hugo-vps-deploy-setup.git) for more specific infrastructure plans.)*
 
