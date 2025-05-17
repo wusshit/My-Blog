@@ -1,6 +1,7 @@
 # My Personal Blog
 
 **Live Site:** [wuweb.westeurope.cloudapp.azure.com](wuweb.westeurope.cloudapp.azure.com)
+*(This site is accessible via its Azure DNS name. A custom domain and HTTPS are planned future improvements.)*
 
 Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share my learning experience.
 
