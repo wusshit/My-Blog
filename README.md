@@ -2,7 +2,7 @@
 
 # Content on this website is still as the same as shown on the template, I am going to modify in the future.
 
-**Live Site:** [https://wuweb.westeurope.cloudapp.azure.com](wuweb.westeurope.cloudapp.azure.com)
+**Live Site:** [https://wuweb.westeurope.cloudapp.azure.com](https://wuweb.westeurope.cloudapp.azure.com)
 
 Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share my learning experience.
 
