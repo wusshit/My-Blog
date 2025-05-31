@@ -3,7 +3,6 @@
 # Content on this website is still as the same as shown on the template, I am going to modify in the future.
 
 **Live Site:** [wuweb.westeurope.cloudapp.azure.com](wuweb.westeurope.cloudapp.azure.com)
-*(This site is accessible via its Azure DNS name. A custom domain and HTTPS are planned future improvements.)*
 
 Welcome to the source code repository for my personal website and blog! This site is built using the static site generator [Hugo](https://gohugo.io/) and is a space where I share my learning experience.
 
@@ -34,6 +33,7 @@ This separation helps keep this repository focused on the site's content and the
 *   **Static Site Generation:** Hugo
 *   **Content Management:** Markdown, Git
 *   **Version Control:** Git & GitHub
+*   **HTTPS/SSL:** Let's Encrypt
 
 *(For technologies related to deployment, server, and CI/CD, please see the [CI/CD Setup & Configuration Repository](https://github.com/wusshit/my-hugo-vps-deploy-setup.git)*
 
