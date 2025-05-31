@@ -12,7 +12,7 @@ Beyond the content itself, this project also serves as a practical learning grou
 
 *   **Content:** Blog posts, articles, and pages written in Markdown.
 *   **Static Site Generator:** Hugo
-*   **Deployment:** This site is automatically built and deployed to a self-managed Azure Virtual Machine running Nginx.
+*   **Deployment:** This site is automatically built and deployed to a self-managed Azure Virtual Machine running Nginx, served securely over HTTPS.
 
 ## DevOps & CI/CD Demonstration
 
@@ -22,7 +22,7 @@ The real magic behind this site (from a technical perspective) is its automated 
 
 This "configuration demo" repository includes:
 *   The exact `post-receive` Git hook script used for automation.
-*   The Nginx server block configuration.
+*   The Nginx server block configuration (for HTTP and HTTPS).
 *   Notes on the Azure VM setup and other server-side configurations.
 *   A detailed explanation of the deployment workflow.
 
