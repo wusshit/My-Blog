@@ -73,9 +73,4 @@ While the detailed scripts are in the linked configuration repository, the deplo
 I plan to continue developing both the content of this blog and enhancing its underlying infrastructure:
 
 *   Adding more articles about my understanding and learning experience in my practical exploration
-*   Implementing a custom domain and HTTPS (SSL/TLS).
 *   Further exploring DevOps tools for automation, configuration management, and containerization. *(Refer to the [CI/CD Setup & Configuration Repository](https://github.com/wusshit/my-hugo-vps-deploy-setup.git) for more specific infrastructure plans.)*
-
----
-
-Thank you for visiting!
